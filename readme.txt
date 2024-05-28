@@ -3,7 +3,7 @@ Virtual-Assistant-Python
 pip install 
 pip install wolframalpha
 pip install pyttsx3  # A python Text to Speech Library
-pip install speech_recognition as sr  # A Speech Recognition Library with Python
+pip install speechRecognition   # A Speech Recognition Library with Python
 pip install wikipedia  # Python Library to get  Wikipedia Result
 pip install webbrowser
 pip install winshell
